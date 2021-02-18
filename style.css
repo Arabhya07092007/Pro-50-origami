@@ -1,0 +1,135 @@
+
+.menu{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(124, 236, 240);
+    font-size: 20px;
+    margin:5px;
+    border-radius: 4px;
+}
+
+#name{
+
+    font-size: 50px;
+    font-weight: 400;
+
+}
+
+
+.bodyimg{
+
+    border-radius: 10px;
+    font-size: 18px;
+    font-family: cursive;
+    text-align:initial;
+    color:steelblue;
+    background-color:rgb(236, 221, 221);
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.bodyimg h2{
+    text-align: center;
+    margin-right: 60px;
+}
+
+.origami{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.camel {
+
+    margin: 15px;
+    background-color: cornflowerblue;
+    border-radius: 14px;
+    padding: 15px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size:17px;
+    justify-content: space-evenly;
+    
+}
+.camel h2{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:purple;
+}
+
+.camel img{
+    padding: 20px;
+}
+
+
+
+
+
+
+.chameleon {
+    margin: 15px;
+    background-color: cornflowerblue;
+    border-radius: 14px;
+    padding: 15px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size:17px;
+    justify-content: space-evenly;
+}
+
+.chameleon h2{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: purple;
+}
+
+.chameleon img{
+    padding: 20px;
+}
+
+.head{
+
+    text-align: center;
+    margin:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:24px;
+    color:rebeccapurple;
+}
+
+.class2{
+    background-color: skyblue;
+    margin: 15px;
+    border-radius: 14px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size:17px;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+
+.class2 h2{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: purple;
+}
+
+.class2 iframe {
+    background-color: rgba(100, 148, 237, 0);
+    border-radius: 40px;
+    padding: 30px;
+    
+}
+
+body{
+    background-color:rgba(250, 228, 232, 0.658)
+}
+
+
+
